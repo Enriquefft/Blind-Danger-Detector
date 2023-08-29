@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "342398878440",
+    "project_id": "blind-danger-detection",
+    "storage_bucket": "blind-danger-detection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:342398878440:android:0b914e3fa4ca01435fbf5d",
+        "android_client_info": {
+          "package_name": "com.example.blind_danger_detector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "342398878440-emfmt7ffa3p3vmv3vi98eu0mdlncatqc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDayyWeExJ_aLbZSs6YepCpngMMsOgug8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "342398878440-emfmt7ffa3p3vmv3vi98eu0mdlncatqc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
